@@ -1,7 +1,5 @@
 //	Class:		CS318
 //	Name:		Ben Ward
-//	Email:		bward1@my.athens.edu
-//	Student ID:	00076160
 //	Title:		Base Conversion Program
 
 #include <iostream>
